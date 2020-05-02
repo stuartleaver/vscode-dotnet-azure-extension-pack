@@ -3,7 +3,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 
 When setting up a new install of macOS, I was face with installing all of the VS Code extensions that I use. I thought "Wouldn't it be good if I could just install one which would install them all. I then discovered VS Code extension packs.
 
-So, I introduce my [](). Installing this extension pack will give you a great set of extensions that I have found useful for .NET and Azure development. The list of extensions that are included is below.
+So, I introduce my [.NET & Azure extension pack for VS Code](https://marketplace.visualstudio.com/items?itemName=stuartleaver.dotnet-azure-extensionpack). Installing this extension pack will give you a great set of extensions that I have found useful for .NET and Azure development. The list of extensions that are included is below.
 
 Please note that the usefulness of extensions may change over time. I therefore reserve the right to update the extensions included in this pack at my discretion.
 
