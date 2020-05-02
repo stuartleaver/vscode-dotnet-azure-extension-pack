@@ -1,0 +1,48 @@
+{
+    "name": "dotnet-azure-extensionpack",
+    "displayName": ".NET & Azure Extension Pack",
+    "description": "A collection of extensions that are useful for .NET and Azure development.",
+    "version": "0.0.1",
+    "publisher": "stuartleaver",
+    "license": "SEE LICENSE IN LICENSE",
+    "galleryBanner": {
+        "color": "#3a3d41",
+        "theme": "dark"
+    },
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stuartleaver/vscode-dotnet-azure-extension-pack"
+    },
+    "homepage": "https://github.com/stuartleaver/vscode-dotnet-azure-extension-pack",
+    "bugs": {
+        "url": "https://github.com/stuartleaver/vscode-dotnet-azure-extension-pack/issues"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Azure",
+        "Extension Packs"
+    ],
+    "keywords": [
+        "dotnet",
+        "azure",
+        ".NET",
+        ".NET Core",
+        "csharp",
+        "C#"
+      ],
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "mikestead.dotenv",
+        "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-azuretools.vscode-azurestorage",
+        "ms-azuretools.vscode-cosmosdb",
+        "ms-dotnettools.csharp",
+        "ms-vscode.azure-account",
+        "ms-vscode.azurecli",
+        "piotrpalarz.vscode-gitignore-generator"
+    ]
+}
