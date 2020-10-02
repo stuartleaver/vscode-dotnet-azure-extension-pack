@@ -14,8 +14,10 @@ Please note that the usefulness of extensions may change over time. I therefore 
 * [Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
 * [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 * [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+* [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
 * [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 * [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
